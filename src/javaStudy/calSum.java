@@ -10,7 +10,7 @@ public class calSum {
     *
     * 1번째 줄에 숫자의 개수 N(1<=N<=100)
     * 2번째 줄에 숫자 N개가 공백 없이 주어진다.
-    * */
+    */
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

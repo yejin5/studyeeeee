@@ -11,7 +11,7 @@ public class twoPointerSum {
     * 예를 들어 15를 나타내는 방법은 15, 7+8, 4+5+6, 1+2+3+4+5 이다.
     * 반면, 10을 나타내는 방법은 10, 1+2+3+4 이다.
     * N을 입력받아 연속된 자연수의 합으로 나타내는 가짓수를 출력하는 프로그램을 작성하시오.
-    * */
+    */
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

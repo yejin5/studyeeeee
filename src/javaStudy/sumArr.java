@@ -14,7 +14,7 @@ public class sumArr {
     * 2번째 줄에 N개의 수가 주어진다.
     * 각 수는 1000보다 작거나 같은 자연수이다.
     * 3번째 줄부터는 M개의 줄에 합을 구해야 하는 구간 i와 j가 주어진다.
-    * */
+    */
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

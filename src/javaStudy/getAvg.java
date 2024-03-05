@@ -16,7 +16,7 @@ public class getAvg {
     * 해당 값은 100보다 작거나 같은, 음이 아닌 정수이고, 적어도 1개의 값은 0보다 크다.
     *
     * 1번째 줄에 새로운 평균을 출력하시오.
-    * */
+    */
 
     public static void main(String[] args) {
 
